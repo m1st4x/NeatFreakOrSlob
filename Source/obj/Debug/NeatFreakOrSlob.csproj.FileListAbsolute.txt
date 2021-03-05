@@ -1,0 +1,6 @@
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Assemblies\NeatFreakOrSlob.dll
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Assemblies\NeatFreakOrSlob.pdb
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.csproj.CoreCompileInputs.cache
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.csproj.CopyComplete
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.dll
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.pdb

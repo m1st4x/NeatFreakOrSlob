@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<TraitDef>
+		<defName>Slob</defName>
+		<commonality>1</commonality>
+		<degreeDatas>
+			<li>
+				<label>slob</label>
+				<description>[PAWN_nameDef] doesn't care much about cleanliness and tidiness.</description>
+			</li>
+		</degreeDatas>
+		<conflictingTraits>
+			<li>NeatFreak</li>
+		</conflictingTraits>
+	</TraitDef>
+	<TraitDef>
+		<defName>NeatFreak</defName>
+		<commonality>1</commonality>
+		<degreeDatas>
+			<li>
+				<label>neat freak</label>
+				<description>[PAWN_nameDef] hates dirt and mess.</description>
+			</li>
+		</degreeDatas>
+		<conflictingTraits>
+			<li>Slob</li>
+		</conflictingTraits>
+	</TraitDef>
+</Defs>

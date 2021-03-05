@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <ThoughtDef>
+    <defName>SlobThoughts</defName>
+    <workerClass>NeatFreakOrSlob.ThoughtWorker_NeatFreakOrSlob</workerClass>
+    <validWhileDespawned>false</validWhileDespawned>
+    <requiredTraits>
+      <li>Slob</li>
+    </requiredTraits>
+    <stages>
+      <li>
+        <label>slob while cleaning</label>
+        <description>I can't think of anything worse than cleaning.</description>
+        <baseMoodEffect>-12</baseMoodEffect>
+      </li>
+	  <li>
+        <label>slob in dirty ambience</label>
+        <description>It's a bit messy here but I like it.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+      <li>
+        <label>slob in sterile ambience</label>
+        <description>Don't know why but this sterile ambience makes me feel uncomfortable.</description>
+        <baseMoodEffect>-3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>  
+  <ThoughtDef>
+    <defName>NeatFreakThoughts</defName>
+    <workerClass>NeatFreakOrSlob.ThoughtWorker_NeatFreakOrSlob</workerClass>
+    <validWhileDespawned>false</validWhileDespawned>
+    <requiredTraits>
+      <li>NeatFreak</li>
+    </requiredTraits>
+    <stages>
+	  <li>
+        <label>neat freak while cleaning</label>
+        <description>Love it! I've passion for cleaning work.</description>
+        <baseMoodEffect>6</baseMoodEffect>
+      </li>	
+	  <li>
+        <label>neat freak in dirty ambience</label>
+        <description>It's just too dirty here.</description>
+        <baseMoodEffect>-6</baseMoodEffect>
+      </li>
+      <li>
+        <label>neat freak in sterile ambience</label>
+        <description>This place is tidy and clean. That's how it should be.</description>
+        <baseMoodEffect>3</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+  
+  <ThoughtDef>
+    <defName>NeatVsSlob</defName>
+    <thoughtClass>NeatFreakOrSlob.Thought_NeatVsSlob</thoughtClass>
+    <workerClass>NeatFreakOrSlob.ThoughtWorker_NeatFreakOrSlob</workerClass>
+    <validWhileDespawned>true</validWhileDespawned>
+    <stages>
+      <li>
+        <label>neat freak vs slob</label>
+      </li>
+    </stages>
+  </ThoughtDef>
+</Defs>
