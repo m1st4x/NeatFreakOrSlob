@@ -6,7 +6,8 @@
 		<degreeDatas>
 			<li>
 				<label>slob</label>
-				<description>[PAWN_nameDef] doesn't care much about cleanliness and tidiness.</description>
+				<description>[PAWN_nameDef] doesn't care much about cleanliness and tidiness and has negative opinions about people who do so.
+				He/She leaves more filth behind than others, room cleanliness affects the mood.</description>
 			</li>
 		</degreeDatas>
 		<conflictingTraits>
@@ -19,7 +20,8 @@
 		<degreeDatas>
 			<li>
 				<label>neat freak</label>
-				<description>[PAWN_nameDef] hates dirt and mess.</description>
+				<description>[PAWN_nameDef] hates dirt and mess - as well as people who produce it.
+				He/She leaves less filth behind than others, room cleanliness affects the mood.</description>
 			</li>
 		</degreeDatas>
 		<conflictingTraits>

@@ -4,3 +4,4 @@ C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.csproj.Co
 C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.csproj.CopyComplete
 C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.dll
 C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.pdb
+C:\Users\Ralf\Desktop\NeatFreakOrSlob\Source\obj\Debug\NeatFreakOrSlob.csprojAssemblyReference.cache
