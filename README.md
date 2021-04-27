@@ -28,8 +28,9 @@ Use MoreTraitSlots to boost the propability of pawns having this traits.
 
 Edb prepare carefully helps you to setup your starting pawns.
 
-Compatibility:
-No issues but some redundancy: Vanilla Traits Expanded adds two traits with similar behavior, however less detailed und not adjustable.
+No compatibility issues but some redundancy:
+Vanilla Traits Expanded adds two traits (neat and slob) with similar behavior, 
+however less detailed und not adjustable. You can disable them in the VTE mod settings.
 
 Have fun!
 -m1st4x
