@@ -23,10 +23,8 @@ All values and thresholds are adjustable in the options.
 
 Having one or more slobs in your team can make your colony a messy place.
 Using door mats is recommended.
-
-Use MoreTraitSlots to boost the propability of pawns having this traits.
-
 Edb prepare carefully helps you to setup your starting pawns.
+Use MoreTraitSlots to boost the propability of pawns having this traits.
 
 No compatibility issues but some redundancy:
 Vanilla Traits Expanded adds two traits (neat and slob) with similar behavior, 
